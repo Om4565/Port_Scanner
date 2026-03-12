@@ -34,3 +34,7 @@ This project helps in understanding:
 ## Disclaimer
 
 This tool is developed strictly for educational and learning purposes. Port scanning should only be performed on systems where you have explicit permission to test. Unauthorized scanning of networks or systems may violate security policies and laws.
+
+## Author
+Om Mohite.
+| Web Application Security | Python Security Tools
